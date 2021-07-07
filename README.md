@@ -18,7 +18,7 @@ MAy need to add the following sections:
     Author XYZ
     Version v0.0.1
   ```
--  **%help** section  is used for info about the image< for example
+- **%help** section  is used for info about the image< for example
   ```text
   %help
     This container provides X.
