@@ -1,0 +1,7 @@
+Bootstrap: docker
+From: fred2/optitype
+
+%help
+    This container provides OptiType, a Precision 
+    HLA typing from next-generation sequencing data.
+    See https://github.com/FRED-2/OptiType fo rusage.

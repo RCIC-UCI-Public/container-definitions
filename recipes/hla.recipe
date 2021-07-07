@@ -1,0 +1,6 @@
+Bootstrap: docker
+From: humanlongevity/hla
+
+%help
+    This container provides humanlongevity/HLA.
+    See https://github.com/humanlongevity/HLA for usage.
